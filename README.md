@@ -2,7 +2,7 @@
 <h3 align="center">Junior Front-End Developer | React Enthusiast</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/mahmoud-ahmed-522740223" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed-522740223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1uWqdxze693-dQleF0ycDAoAEgsD1LjN9/view?usp=sharing" target="_blank">
