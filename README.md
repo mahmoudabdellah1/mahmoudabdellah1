@@ -1,26 +1,51 @@
-<h2>Hey 👋, I'm Mahmoud</h2>
-<p>I'm a junior Front-end Developer. I am working on some side projects, learning a couple new dishes, and trying to conquer the world.</p>
+<h1 align="center">Hey 👋, I'm Mahmoud</h1>
+<h3 align="center">Junior Front-End Developer | React Enthusiast</h3>
 
-<p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on a big project with React and Redux.</li>
-<li>🧐 Learning about <strong>NextJs</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/mahmoudabdellah1">Github</a>.</li>
-<li>📙 Check out my <a href="file:///E:/CV.pdf">resume</a>.</li>
-<li>🎉 I worked at some projects on UI&UX Design </li>
-</ul>
+<p align="center">
+  <a href="www.linkedin.com/in/mahmoud-ahmed-522740223" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1uWqdxze693-dQleF0ycDAoAEgsD1LjN9/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
-<h2>🚀 Some Tools I Use</h2>
+---
+
+<img align="right" width="280" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+## 🚀 About Me
+- 🔭 Working on **projects using React & Redux**
+- 🧐 Currently learning **Next.js**
+- 🎨 Amateur in **UI/UX Design**
+- 👨‍💻 All projects available on **GitHub**
+
+---
+
+## 🛠️ Languages & Libraries
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
+</p>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35"/>
+</p>
 
+---
+
+## 📚 Tools & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35"/>
+</p>
+
+---
+
+## 🍌 Fun Fact
+> Don't forget to get some Potassium 🍌
